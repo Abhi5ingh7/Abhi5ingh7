@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning Spring Boot
-- 📫 How to reach me imabhisingh57@gmail.com
+- 📫 Reach me via mail-imabhisingh57@gmail.com
 
 - ⚡ Fun fact: ...
 ## 🌐 Socials:
