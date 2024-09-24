@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Abhishek Singh
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Spring Boot
-- 📫 Reach me via mail-imabhisingh57@gmail.com
+👋 Hi there! I'm Abhishek Singh, a passionate software developer with a focus on Backend java Developer.
+🌱 I’m currently learning .
+🔧 My favorite tools and technologies include Spring ,Spring Boot, Spring Security, validation ,Hibernate ,Spring Data JPA, Spring MVC ,OAuth, AWS,Linux, GitHub, Git.
+Languages: Java, SQl, C
+Frameworks: Spring Boot,
+Databases: MySQL, PostgreSql
+Tools: Git, VS code, Eclipse,PgAdmin4,SqlWorkBrench.
+📫 Feel free to reach out to me at imabhisingh57@gmail.com, or connect with me on www.linkedin.com/in/abhishek-singh57.
+🌟 Check out my repositories to see some of my work!
 
 - ⚡ Fun fact: ...
 ## 🌐 Socials:
